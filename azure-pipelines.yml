@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: Shravan-FreeVM
 
 steps:
 - task: Maven@3
